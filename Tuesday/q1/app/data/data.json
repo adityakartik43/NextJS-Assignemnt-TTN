@@ -1,0 +1,175 @@
+{
+  "company": {
+    "name": "TechNova Pvt Ltd",
+    "description": "TechNova Pvt Ltd is a modern technology company specializing in web, mobile, and AI-driven solutions. We focus on building scalable, high-performance applications for businesses worldwide.",
+    "founded": "2018",
+    "headquarters": "Noida, India"
+  },
+
+  "employees": [
+    {
+      "id": "1122",
+      "name": "Aditya Sharma",
+      "role": "Frontend Developer",
+      "experience": "3 Years",
+      "bio": "Specializes in React, Next.js, and UI/UX optimization."
+    },
+    {
+      "id": "2233",
+      "name": "Kartik Verma",
+      "role": "Backend Developer",
+      "experience": "4 Years",
+      "bio": "Expert in Node.js, Express, and database architecture."
+    },
+    {
+      "id": "3344",
+      "name": "Ansh Gupta",
+      "role": "Full Stack Developer",
+      "experience": "2 Years",
+      "bio": "Works across frontend & backend with modern stacks."
+    },
+    {
+      "id": "4455",
+      "name": "Riya Malhotra",
+      "role": "UI/UX Designer",
+      "experience": "5 Years",
+      "bio": "Designs intuitive and engaging digital experiences."
+    },
+    {
+      "id": "5566",
+      "name": "Rahul Mehta",
+      "role": "DevOps Engineer",
+      "experience": "6 Years",
+      "bio": "Handles CI/CD pipelines, Docker, and cloud deployments."
+    },
+    {
+      "id": "6677",
+      "name": "Sneha Iyer",
+      "role": "QA Engineer",
+      "experience": "3 Years",
+      "bio": "Ensures product quality through automation & manual testing."
+    }
+  ],
+
+  "categories": [
+    {
+      "id": "c1",
+      "name": "Electronics"
+    },
+    {
+      "id": "c2",
+      "name": "Accessories"
+    },
+    {
+      "id": "c3",
+      "name": "Office Equipment"
+    }
+  ],
+
+  "products": [
+    {
+      "id": "1",
+      "name": "Laptop Pro X",
+      "price": 95000,
+      "category": "Electronics",
+      "description": "High-performance laptop designed for developers and professionals.",
+      "features": [
+        "16GB RAM",
+        "512GB SSD",
+        "Intel i7 Processor",
+        "14-inch Retina Display"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Smartphone Ultra",
+      "price": 65000,
+      "category": "Electronics",
+      "description": "Next-generation smartphone with AI-powered camera.",
+      "features": [
+        "108MP Camera",
+        "5G Support",
+        "AMOLED Display",
+        "Fast Charging"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Wireless Headphones",
+      "price": 12000,
+      "category": "Accessories",
+      "description": "Noise-cancelling wireless headphones with premium sound quality.",
+      "features": [
+        "Active Noise Cancellation",
+        "30 Hours Battery",
+        "Bluetooth 5.3",
+        "Fast Pairing"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Mechanical Keyboard",
+      "price": 8000,
+      "category": "Accessories",
+      "description": "RGB mechanical keyboard for gamers and programmers.",
+      "features": [
+        "RGB Backlight",
+        "Blue Switches",
+        "Ergonomic Design",
+        "USB-C Connectivity"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Ergonomic Office Chair",
+      "price": 18000,
+      "category": "Office Equipment",
+      "description": "Comfortable ergonomic chair for long working hours.",
+      "features": [
+        "Lumbar Support",
+        "Adjustable Height",
+        "Breathable Mesh",
+        "360° Rotation"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "4K Monitor",
+      "price": 32000,
+      "category": "Electronics",
+      "description": "Ultra HD monitor for designers, editors, and developers.",
+      "features": [
+        "4K Resolution",
+        "IPS Panel",
+        "HDR Support",
+        "Eye Care Technology"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "USB-C Docking Station",
+      "price": 6000,
+      "category": "Accessories",
+      "description": "Expand connectivity with multiple ports.",
+      "features": [
+        "HDMI Output",
+        "Multiple USB Ports",
+        "Ethernet Port",
+        "SD Card Reader"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Smart Office Lamp",
+      "price": 3500,
+      "category": "Office Equipment",
+      "description": "Adjustable smart lamp with brightness control.",
+      "features": [
+        "Touch Controls",
+        "Brightness Adjustment",
+        "Energy Efficient",
+        "Minimal Design"
+      ]
+    }
+  ]
+}
