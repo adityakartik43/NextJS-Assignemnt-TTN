@@ -1,0 +1,20 @@
+.container {
+  padding: 20px;
+}
+
+.card {
+  background: black;
+  border-radius: 10px;
+  padding: 16px;
+  margin-bottom: 12px;
+}
+
+.name {
+  color: var(--color-accent);
+  font-size: var(--text-lg);
+}
+
+.email {
+  color: #cbd5f5;
+  font-size: var(--text-sm);
+}
