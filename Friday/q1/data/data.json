@@ -1,0 +1,46 @@
+{
+  "teachers": [
+    { "id": 1, "name": "Rahul Sharma", "subject": "Mathematics" },
+    { "id": 2, "name": "Neha Verma", "subject": "Physics" },
+    { "id": 3, "name": "Amit Patel", "subject": "Chemistry" },
+    { "id": 4, "name": "Sneha Iyer", "subject": "Biology" },
+    { "id": 5, "name": "Vikram Singh", "subject": "Computer Science" }
+  ],
+
+  "students": [
+    { "id": 1, "name": "Arjun Mehta", "teacherId": 1 },
+    { "id": 2, "name": "Priya Nair", "teacherId": 1 },
+    { "id": 3, "name": "Rohit Gupta", "teacherId": 1 },
+    { "id": 4, "name": "Ananya Rao", "teacherId": 1 },
+    { "id": 5, "name": "Kunal Shah", "teacherId": 1 },
+    { "id": 6, "name": "Simran Kaur", "teacherId": 1 },
+
+    { "id": 7, "name": "Aditya Joshi", "teacherId": 2 },
+    { "id": 8, "name": "Ishita Sen", "teacherId": 2 },
+    { "id": 9, "name": "Manav Kapoor", "teacherId": 2 },
+    { "id": 10, "name": "Riya Malhotra", "teacherId": 2 },
+    { "id": 11, "name": "Devansh Jain", "teacherId": 2 },
+    { "id": 12, "name": "Pooja Desai", "teacherId": 2 },
+
+    { "id": 13, "name": "Sarthak Mishra", "teacherId": 3 },
+    { "id": 14, "name": "Nidhi Agarwal", "teacherId": 3 },
+    { "id": 15, "name": "Yash Patil", "teacherId": 3 },
+    { "id": 16, "name": "Tanvi Kulkarni", "teacherId": 3 },
+    { "id": 17, "name": "Harsh Vardhan", "teacherId": 3 },
+    { "id": 18, "name": "Meera Krishnan", "teacherId": 3 },
+
+    { "id": 19, "name": "Ayaan Khan", "teacherId": 4 },
+    { "id": 20, "name": "Shreya Bose", "teacherId": 4 },
+    { "id": 21, "name": "Rajat Chawla", "teacherId": 4 },
+    { "id": 22, "name": "Diya Menon", "teacherId": 4 },
+    { "id": 23, "name": "Varun Reddy", "teacherId": 4 },
+    { "id": 24, "name": "Kritika Sharma", "teacherId": 4 },
+
+    { "id": 25, "name": "Naman Arora", "teacherId": 5 },
+    { "id": 26, "name": "Sana Sheikh", "teacherId": 5 },
+    { "id": 27, "name": "Raghav Iyer", "teacherId": 5 },
+    { "id": 28, "name": "Palak Jain", "teacherId": 5 },
+    { "id": 29, "name": "Kabir Thakur", "teacherId": 5 },
+    { "id": 30, "name": "Neel Banerjee", "teacherId": 5 }
+  ]
+}
